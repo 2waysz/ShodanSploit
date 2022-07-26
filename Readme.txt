@@ -22,4 +22,6 @@ pip install slowprint
                                                                             
 
 This Script Was Coded By 2Waysz :)
+
+Aka Henti <3
 ══════════════════════════════════════════════════════
