@@ -19,7 +19,9 @@ pip install os
 pip install time
 pip install requests
 pip install slowprint
-                                                                            
+                           
+Best to Ru
+n On Windows Pc Tbh                           
 
 This Script Was Coded By 2Waysz :)
 
