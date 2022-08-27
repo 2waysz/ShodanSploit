@@ -14,6 +14,8 @@ on Type idc
 
 What Do You need To Run?
 
+First You Obviously Need Python
+
 pip install json
 pip install os
 pip install time
